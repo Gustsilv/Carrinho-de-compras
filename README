@@ -1,0 +1,29 @@
+# Carrinho de Compras
+
+Este projeto simula o funcionamento de um carrinho de compras digital, proporcionando uma experiência interativa para o usuário adicionar produtos, ajustar quantidades, visualizar preços e calcular o total a ser pago.
+
+## Funcionalidades
+
+- **Seleção de Produtos**: Escolha entre três produtos disponíveis - fones de ouvido, celular e óculos VR.
+- **Quantidade de Produtos**: Defina a quantidade desejada para cada produto selecionado.
+- **Visualização de Preços e Quantidades**: Veja os preços unitários e as quantidades selecionadas para cada produto em seu carrinho.
+- **Cálculo do Total**: Confira o valor total a ser pago pelos itens no carrinho.
+- **Adição ao Carrinho**: Utilize o botão para adicionar os produtos escolhidos ao carrinho.
+- **Limpeza do Carrinho**: Com um simples clique, limpe todos os itens do carrinho.
+
+## Como Usar
+
+1. Selecione o produto desejado no menu dropdown.
+2. Insira a quantidade necessária no campo correspondente.
+3. Clique em 'Adicionar' para incluir o produto no carrinho.
+4. Repita o processo para adicionar mais produtos.
+5. Visualize o total a ser pago no campo 'Total'.
+6. Se desejar remover todos os itens, clique em 'Limpar Carrinho'.
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+
+Desfrute da facilidade de gerenciar suas compras com nosso carrinho de compras digital!
